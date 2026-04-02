@@ -25,3 +25,5 @@ Stakeholder Communication & Business Process Mapping
 📌 Agile Methodology
 
 Applied learning through practical projects including data analysis, dashboard creation, and business case studies.
+
+![image alt](https://github.com/Bhanusreeja7/Business-analyst-Certificates/blob/15a173975c228d05098dfee45ab6129cfc010998/Screenshot%202026-03-05%20133558.png)
