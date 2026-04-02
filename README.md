@@ -56,3 +56,6 @@ During the internship, I worked on:
 📌 Business Understanding using KPI Reporting
 
 📌 Insight Communication with the Stakeholder Perspective
+
+![image alt](https://github.com/Bhanusreeja7/Business-analyst-Certificates/blob/1db95be6ff8d21bbbc22d820721eaf4fae7a97a2/Screenshot%202026-03-05%20133525.png)
+
